@@ -1,7 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&family=Raleway:wght@300;400;500&display=swap');
 
-/*=== Configurações Globais ===*/
+/*== Configurações Globais ==*/
 *{
     margin: 0; 
     padding:0;
@@ -105,7 +105,7 @@ header .icons a:hover{
     display: none;
 }
 
-/* SWIPER.JS SLIDE */
+/*=== SWIPER.JS SLIDE ===*/
 .slide {
     width: 100%;
     margin: 0;
